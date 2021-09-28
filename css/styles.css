@@ -1,0 +1,74 @@
+.imagen{
+    display: block;
+    margin: auto;
+    width: 120px;
+}
+
+.titulo{
+    background-color: #C4C4C4;
+    color: hsl(197, 100%, 23%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+.datos{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 4px;
+    margin-top: 120px;
+    padding: 3px;
+    padding-left: 15px;
+}
+
+.formacion{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 4px;
+    padding: 3px;
+    padding-left: 15px;
+}
+
+.experiencia{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    letter-spacing: 4px;
+    padding: 3px;
+    padding-left: 15px;
+}
+
+.footer{
+    background-color: #005677;
+    color: white;
+    font-size: 20px;
+    margin-top: 145px;
+    padding-top: 11px;
+    padding-bottom: 9px;
+    text-align: center;
+}
+
+.logo{
+    margin: 0 9px;
+}
+
+.logo2{
+    margin: 0 9px;
+}
+
+.span-cursiva{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.span-negrita{
+    font-weight: bold;
+}
+
+p{
+    font-size: 15px;
+}
