@@ -1,3 +1,7 @@
+header{
+    background-image: url("../img/banner.jpg");
+}
+
 .imagen{
     display: block;
     margin: auto;
@@ -7,7 +11,7 @@
 .titulo{
     background-color: #C4C4C4;
     color: hsl(197, 100%, 23%);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 30px;
     letter-spacing: 3px;
     padding: 10px;
@@ -58,6 +62,19 @@
 
 .logo2{
     margin: 0 9px;
+}
+
+.logo3{
+    margin: 0 9px;
+    width: 20px;
+    height: 20px;
+}
+
+.informacion{
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
 }
 
 .span-cursiva{
